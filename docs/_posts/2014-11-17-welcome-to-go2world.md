@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "世界那个大，我们去看看"
 date:   2014-11-17 13:31:01 +0800
-categories: jekyll
-tag: jekyll
+categories: 教程
+tag: 教程
 ---
 
 * content
 {:toc}
 
 
-First POST build by Jekyll.
 
 
-诫子书				{#zhugeliang}
+诫子书			
 ------------------------
 
 ![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
@@ -26,6 +25,3 @@ First POST build by Jekyll.
 年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
