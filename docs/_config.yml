@@ -1,13 +1,12 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.yhvps.com
+name: go2world
+author: go2world
+url: http://jc.go2world.icu/
+resume_site: http://go2world.xyz
 github: https://github.com/go2world/
 baseurl: "/"
 description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+meta_description:
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
@@ -22,5 +21,5 @@ github_username: go2world
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae8
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761338
 
