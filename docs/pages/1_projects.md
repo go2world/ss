@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: 
 comments: true
-permalink: /projects1/
+permalink: /projects/
 ---
 
 * content

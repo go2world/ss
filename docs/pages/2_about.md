@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 
 comments: true
-permalink: /about1/
+permalink: /about/
 ---
 
 * content
