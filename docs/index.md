@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎查看SS教程
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+这是一系列如何使用SS / SSR 的教程 
