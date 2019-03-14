@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: 安卓手机
 ---
 
 ## Empty diary template
