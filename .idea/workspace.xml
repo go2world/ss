@@ -1,71 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/LessOrMore/pages_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/docs_header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_includes/lefttree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_posts/2014-11-17-welcome-to-go2world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_posts/2016-08-27-how-to-use-ss.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_sass/_syntax-highlighting.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/abandon-comments/yungentie-abandon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/favicon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/freud.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/jiezishu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/js/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/js/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/styles/js/lessismore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/tag/index.html" beforeDir="false" />
+    <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="删除android apk ， 用release">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -115,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/docs/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="153">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -268,27 +216,6 @@
               <item name="ss" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="iphone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="iphone" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -392,14 +319,7 @@
       <workItem from="1554106430058" duration="2119000" />
       <workItem from="1555642343817" duration="2985000" />
       <workItem from="1556163368332" duration="49000" />
-      <workItem from="1569592902498" duration="1819000" />
-    </task>
-    <task id="LOCAL-00003" summary="fist commit">
-      <created>1552466852104</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1552466852104</updated>
+      <workItem from="1569592902498" duration="2321000" />
     </task>
     <task id="LOCAL-00004" summary="fist commit">
       <created>1552469153931</created>
@@ -737,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555646269129</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="删除android apk ， 用release">
+      <created>1569594743283</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1569594743284</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52008000" />
+    <option name="totallyTimeSpent" value="52510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -754,8 +681,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.423716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.423716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -772,7 +700,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
       <window_info anchor="bottom" id="LuaCheck" order="7" weight="0.3294509" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.47549018" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.21732026" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294509" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.113144755" />
@@ -982,17 +910,10 @@
     <entry file="file://$PROJECT_DIR$/docs/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="153">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -1023,11 +944,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>

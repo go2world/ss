@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "苹果手机客户端添加trojan节点使用教程"
-date:   2015-12-27
+date:   2019-09-27
 comments: true
 categories: 苹果手机
 ---
