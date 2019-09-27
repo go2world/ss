@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/res/img/iphone/ios4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/LessOrMore/pages_list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/banner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/docs_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_includes/lefttree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_posts/2014-11-17-welcome-to-go2world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_posts/2016-08-27-how-to-use-ss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_sass/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_sass/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_sass/_syntax-highlighting.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/css/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/css/syntax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/abandon-comments/yungentie-abandon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/favicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/freud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/jiezishu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/images/yungentie/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/js/holder.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/styles/js/lessismore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tag/index.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="561">
+                <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/feed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="35" column="31" lean-forward="true" selection-start-line="34" selection-end-line="35" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>关于</find>
+      <find>Welcome to my website</find>
+      <find>about</find>
+      <find>Home</find>
+      <find>email</find>
+      <find>Posts</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\43865\Desktop\ss\docs</dir>
+      <dir>C:\Users\43865\Desktop\ss</dir>
+      <dir>E:\myProject\ss</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2014-11-17-welcome-to-jekyll.md" />
+        <option value="$PROJECT_DIR$/docs/_includes/header.html" />
+        <option value="$PROJECT_DIR$/docs/reference.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/2014-11-17-welcome-to-go2world.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/2016-08-27-how-to-use-ss.md" />
+        <option value="$PROJECT_DIR$/docs/_config.yml" />
+        <option value="$PROJECT_DIR$/docs/pages/3_公告.md" />
+        <option value="$PROJECT_DIR$/docs/pages/3_public_notic.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/memo/2015-12-27-useful-links.md" />
+        <option value="$PROJECT_DIR$/docs/pages/2_about_delete.md" />
+        <option value="$PROJECT_DIR$/docs/pages/1_projects_delete.md" />
+        <option value="$PROJECT_DIR$/docs/pages/1_projects.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/diary/2015-12-28-empty-template.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-useful-links.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/android/2015-12-28-empty-template.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-empty-template.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/windows/2015-12-28-empty-template.md" />
+        <option value="$PROJECT_DIR$/docs/pages/2_about.md" />
+        <option value="$PROJECT_DIR$/docs/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/docs/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone.md" />
+        <option value="$PROJECT_DIR$/docs/index.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="iphone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="iphone" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/work/Android/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555649450296" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/res/img/iphone" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
+      <recent name="C:\Users\43865\Desktop\ss\docs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\myProject\ss文档\ss\docs\res\img\iphone" />
+      <recent name="F:\myProject\ss文档\ss\docs\_posts\iphone" />
+      <recent name="E:\myProject\ss\docs\res\pkg" />
+      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\iphone" />
+      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\andr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="" />
+      <created>1552464751999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552464751999</updated>
+      <workItem from="1552464754939" duration="6078000" />
+      <workItem from="1552484519278" duration="1200000" />
+      <workItem from="1552548270190" duration="8079000" />
+      <workItem from="1552569379298" duration="6619000" />
+      <workItem from="1552613339012" duration="11809000" />
+      <workItem from="1552878062252" duration="24000" />
+      <workItem from="1552974023448" duration="8699000" />
+      <workItem from="1554102347851" duration="796000" />
+      <workItem from="1554104030587" duration="952000" />
+      <workItem from="1554105130826" duration="720000" />
+      <workItem from="1554105878174" duration="60000" />
+      <workItem from="1554106430058" duration="2119000" />
+      <workItem from="1555642343817" duration="2985000" />
+      <workItem from="1556163368332" duration="49000" />
+      <workItem from="1569592902498" duration="1819000" />
+    </task>
+    <task id="LOCAL-00003" summary="fist commit">
+      <created>1552466852104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552466852104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fist commit">
+      <created>1552469153931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552469153931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fist commit">
+      <created>1552469862101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552469862101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fist commit">
+      <created>1552470442727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552470442727</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fist commit">
+      <created>1552548726005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552548726005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fist commit">
+      <created>1552548836213</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552548836213</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fist commit">
+      <created>1552549305833</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552549305833</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fist commit">
+      <created>1552551188405</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552551188405</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fist commit">
+      <created>1552552201053</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1552552201053</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fist commit">
+      <created>1552553118010</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1552553118010</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fist commit">
+      <created>1552554634452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552554634452</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fist commit">
+      <created>1552554789923</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1552554789923</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fist commit">
+      <created>1552554980818</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1552554980818</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fist commit">
+      <created>1552555082939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555082939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fist commit">
+      <created>1552555245648</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555245648</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fist commit">
+      <created>1552555480266</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555480266</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fist commit">
+      <created>1552555994705</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555994705</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fist commit">
+      <created>1552578871525</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1552578871525</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fist commit">
+      <created>1552579938881</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1552579938881</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fist commit">
+      <created>1552580373103</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1552580373103</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fist commit">
+      <created>1552581647509</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1552581647509</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fist commit">
+      <created>1552581808736</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1552581808736</updated>
+    </task>
+    <task id="LOCAL-00025" summary="添加教程windows">
+      <created>1552631920475</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1552631920475</updated>
+    </task>
+    <task id="LOCAL-00026" summary="添加教程windows">
+      <created>1552633271582</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1552633271582</updated>
+    </task>
+    <task id="LOCAL-00027" summary="添加教程windows">
+      <created>1552633732404</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1552633732404</updated>
+    </task>
+    <task id="LOCAL-00028" summary="添加教程windows">
+      <created>1552634220238</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1552634220239</updated>
+    </task>
+    <task id="LOCAL-00029" summary="添加教程windows">
+      <created>1552634386556</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1552634386556</updated>
+    </task>
+    <task id="LOCAL-00030" summary="添加教程windows">
+      <created>1552634801902</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1552634801902</updated>
+    </task>
+    <task id="LOCAL-00031" summary="添加教程windows">
+      <created>1552634864227</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1552634864227</updated>
+    </task>
+    <task id="LOCAL-00032" summary="添加教程windows">
+      <created>1552636268852</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1552636268852</updated>
+    </task>
+    <task id="LOCAL-00033" summary="添加教程windows">
+      <created>1552636637502</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1552636637502</updated>
+    </task>
+    <task id="LOCAL-00034" summary="添加教程windows">
+      <created>1552637203241</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1552637203241</updated>
+    </task>
+    <task id="LOCAL-00035" summary="添加教程windows">
+      <created>1552637376263</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1552637376263</updated>
+    </task>
+    <task id="LOCAL-00036" summary="添加教程windows">
+      <created>1552977307218</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1552977307218</updated>
+    </task>
+    <task id="LOCAL-00037" summary="添加教程windows">
+      <created>1552977589249</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1552977589249</updated>
+    </task>
+    <task id="LOCAL-00038" summary="添加教程windows">
+      <created>1552978036287</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1552978036287</updated>
+    </task>
+    <task id="LOCAL-00039" summary="添加教程windows">
+      <created>1552978804361</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1552978804361</updated>
+    </task>
+    <task id="LOCAL-00040" summary="添加教程windows">
+      <created>1552980229514</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1552980229514</updated>
+    </task>
+    <task id="LOCAL-00041" summary="添加教程windows">
+      <created>1552980442357</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1552980442357</updated>
+    </task>
+    <task id="LOCAL-00042" summary="添加教程windows">
+      <created>1552980547049</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1552980547049</updated>
+    </task>
+    <task id="LOCAL-00043" summary="添加教程windows">
+      <created>1552981062185</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1552981062185</updated>
+    </task>
+    <task id="LOCAL-00044" summary="添加教程windows">
+      <created>1552983417065</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1552983417065</updated>
+    </task>
+    <task id="LOCAL-00045" summary="添加教程windows">
+      <created>1554104867376</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1554104867376</updated>
+    </task>
+    <task id="LOCAL-00046" summary="添加教程windows">
+      <created>1554106871486</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1554106871487</updated>
+    </task>
+    <task id="LOCAL-00047" summary="添加教程windows">
+      <created>1554107207411</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1554107207411</updated>
+    </task>
+    <task id="LOCAL-00048" summary="添加教程windows">
+      <created>1554107909423</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1554107909423</updated>
+    </task>
+    <task id="LOCAL-00049" summary="添加教程android apk">
+      <created>1555645272026</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1555645272026</updated>
+    </task>
+    <task id="LOCAL-00050" summary="添加教程android apk win 到release">
+      <created>1555646121494</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1555646121495</updated>
+    </task>
+    <task id="LOCAL-00051" summary="删除android apk ， 用release">
+      <created>1555646269129</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1555646269129</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52008000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.423716" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" weight="0.3294509" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.47549018" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294509" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.113144755" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.5324459" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fist commit" />
+    <MESSAGE value="添加教程windows" />
+    <MESSAGE value="添加教程android apk" />
+    <MESSAGE value="添加教程android apk win 到release" />
+    <MESSAGE value="删除android apk ， 用release" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除android apk ， 用release" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/docs/_posts/2014-12-20-I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This.markdown" />
+    <entry file="file://$PROJECT_DIR$/docs/_posts/2017-07-24-abandon-the-comment-feature.md" />
+    <entry file="file://$PROJECT_DIR$/docs/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" />
+    <entry file="file://$PROJECT_DIR$/doc/_layouts/default.html" />
+    <entry file="file://$PROJECT_DIR$/doc/_layouts/post.html" />
+    <entry file="file://$PROJECT_DIR$/doc/_includes/footer.html" />
+    <entry file="file://$PROJECT_DIR$/docs/styles/images/fj.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/favicon.jpg" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/jiezishu.jpg" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/freud.jpg" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/01.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/02.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/03.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/04.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/05.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/images/abandon-comments/yungentie-abandon.png" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/js/application.js" />
+    <entry file="file://$PROJECT_DIR$/doc/styles/js/lessismore.js" />
+    <entry file="file://$PROJECT_DIR$/doc/_sass/_base.scss" />
+    <entry file="file://$PROJECT_DIR$/docs/README.md" />
+    <entry file="file://$PROJECT_DIR$/docs/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/newpost.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/duplicate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/2015-02-10-welcome-to-jekyll.markdown" />
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/pages/2_about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/pages/1_projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/frontpage.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/pages/3_notice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/_posts/2014-11-17-welcome-to-go2world.md" />
+    <entry file="file://$PROJECT_DIR$/doc/_posts/2016-08-27-how-to-use-ss.md" />
+    <entry file="file://$PROJECT_DIR$/docs/res/img/win/zhanghao.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/res/img/win/denglu_1.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/index.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="35" column="31" lean-forward="true" selection-start-line="34" selection-end-line="35" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ss</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
