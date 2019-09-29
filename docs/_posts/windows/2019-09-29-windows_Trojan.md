@@ -26,7 +26,7 @@ categories: windows电脑
 
 ### 第二步：创建Trojan服务
 * 关闭其他代理软件（例如shadowsocks）
-* 输入「账号」页面的 Trojan 节点信息
+* 输入「账号」页面的 Trojan 节点信息  (没有trojan节点在这里购买：<a class="downbtn" href="https://us04.go2world.tk/home/ref/6360407488" target="_blank" rel="noopener">Trojan节点服务提供商</a>)
 * 点击「OK」
 
 * ![]({{ '/res/img/win/win2.png' | prepend: site.baseurl  }})
