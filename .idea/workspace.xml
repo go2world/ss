@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -97,12 +96,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <first_editor relative-caret-position="272">
+                <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -173,12 +172,12 @@
         <option value="$PROJECT_DIR$/docs/_includes/footer.html" />
         <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" />
         <option value="$PROJECT_DIR$/docs/index.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md" />
         <option value="$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone.md" />
         <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-trojan.md" />
         <option value="$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md" />
         <option value="$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md" />
         <option value="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md" />
+        <option value="$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md" />
       </list>
     </option>
   </component>
@@ -357,14 +356,7 @@
       <workItem from="1555642343817" duration="2985000" />
       <workItem from="1556163368332" duration="49000" />
       <workItem from="1569592902498" duration="3589000" />
-      <workItem from="1569745406161" duration="5429000" />
-    </task>
-    <task id="LOCAL-00012" summary="fist commit">
-      <created>1552553118010</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1552553118010</updated>
+      <workItem from="1569745406161" duration="5829000" />
     </task>
     <task id="LOCAL-00013" summary="fist commit">
       <created>1552554634452</created>
@@ -702,11 +694,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569752354455</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="添加trojan教程">
+      <created>1569752593013</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1569752593013</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59207000" />
+    <option name="totallyTimeSpent" value="59607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -721,7 +720,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24697885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14803626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -951,26 +950,6 @@
     <entry file="file://$PROJECT_DIR$/docs/res/img/win/neterror.webp">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1006,6 +985,26 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="34">
             <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
