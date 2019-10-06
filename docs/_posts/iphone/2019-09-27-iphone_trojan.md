@@ -11,7 +11,7 @@ categories: 苹果手机
 
 ### iPhone 上如何使用 Shadowrocket 配置 Trojan 科学上网
 * Trojan教程：iOS版
-  第一步：登录西部世界公用 iTunes 账号
+  第一步：登录世界那么大公用 iTunes 账号
 * 设置 → 点击「头像」 → 点击「iTunes Store 与 App Store」 → 登录以下Apple ID
 * Apple ID（世界那么大官方 定期更改密码）
     * ○ 账号：go.6.world@gmail.com
