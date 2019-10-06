@@ -5,7 +5,7 @@ layout: frontpage
 ### 世界那么大，我们去看看
 
 ------
-* SS/SSR服务商官网地址：
+* SS/SSR/Trojan服务商官网地址：
     * <a href="https://go2world.tk/home/ref/8607937008" target="class">账号地址:  go2world.tk</a>
 
 ------
