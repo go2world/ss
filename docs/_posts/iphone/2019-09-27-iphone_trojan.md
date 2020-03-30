@@ -15,7 +15,7 @@ categories: 苹果手机
 * 设置 → 点击「头像」 → 点击「iTunes Store 与 App Store」 → 登录以下Apple ID
 * Apple ID（世界那么大官方 定期更改密码）
     * 账号：go.6.world@gmail.com
-    * 密码：Go2world
+    * 密码：Go6world
        ![]({{ '/res/img/iphone/ios1.png' }})
 
 ### 第二步：下载 Shadowrocket
