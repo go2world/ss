@@ -13,6 +13,7 @@ categories: windows电脑
 * 点击下载 Trojan Windows客户端：v2rayN
     * <a class="downbtn" href="https://yhvps.com/usr/uploads/app/v2rayN-win-with-trojan-v2.zip" target="_blank" rel="noopener">下载地址1</a>
     * <a class="downbtn" href="https://github.com/go2world/ss/releases/download/0.0.4/v2rayN-win-with-trojan-v2.zip" target="_blank" rel="noopener">下载地址2</a>
+    * <a class="downbtn" href="https://dwc-1256539025.cos.ap-hongkong.myqcloud.com/public/pkg/v2rayN-win-with-trojan-v2.zip" target="_blank" rel="noopener">下载地址3</a>
     
 * 双击打开trojan文件夹下的 v2rayN.exe 文件
     * 如客户端运行Trojan报错，请尝试下载以下软件，安装完毕再运行Trojan

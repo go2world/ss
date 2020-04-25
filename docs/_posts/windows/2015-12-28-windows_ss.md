@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "微软windows电脑Shadowsocks客户端使用教程"
+title:  "微软windows电脑Shadowsocks客户端使用教程(不推荐)"
 comments: true
 categories: windows电脑
 ---
