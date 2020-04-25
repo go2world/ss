@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "苹果手机客户端Shadowrocket使用教程"
+title:  "苹果手机客户端Shadowrocket小火箭使用trojan教程"
 date:   2019-09-27
 comments: true
 categories: 苹果手机
