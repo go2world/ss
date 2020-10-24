@@ -13,7 +13,7 @@ categories: 苹果手机
 * Trojan教程：iOS版
   第一步：登录世界那么大公用 iTunes 账号
 * 设置 → 点击「头像」 → 点击「iTunes Store 与 App Store」 → 登录以下Apple ID
-* Apple ID（世界那么大官方 定期更改密码）
+* Apple ID（达世界官方 定期更改密码 <b>请下载完软件之后一定要退出该ID，登录自己的账号，否则你手机上的信息会同步到该账号</b>）
     * 账号：go.6.world@gmail.com
     * 密码：Go6world
        ![]({{ '/res/img/iphone/ios1.png' }})
