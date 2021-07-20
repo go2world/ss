@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-27-iphone_ss.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-27-iphone_ss.mdbak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-28-android.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-28-android.mdbak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-28-windows_ss.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-28-windows_ss.mdbak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/res/bak/2019-09-29-windows_trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2019-09-29-windows_trojan.mdbak" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,14 +144,7 @@
       <workItem from="1569592902498" duration="3589000" />
       <workItem from="1569745406161" duration="6256000" />
       <workItem from="1570321681004" duration="163000" />
-      <workItem from="1626745757290" duration="6290000" />
-    </task>
-    <task id="LOCAL-00023" summary="fist commit">
-      <created>1552581647509</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1552581647509</updated>
+      <workItem from="1626745757290" duration="6532000" />
     </task>
     <task id="LOCAL-00024" summary="fist commit">
       <created>1552581808736</created>
@@ -493,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626758898753</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="添加trojan教程">
+      <created>1626759303950</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1626759303950</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TodoView">
@@ -545,14 +541,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加trojan教程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1626758896981">
+    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1626759302639">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1626758896981" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626758987332">
+    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759302639" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626759529229">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626758987332" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759529229" />
   </component>
   <component name="masterDetails">
     <states>
