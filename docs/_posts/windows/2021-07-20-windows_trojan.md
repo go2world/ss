@@ -23,7 +23,7 @@ categories: windows电脑
 
 ### 第二步：创建Trojan服务
 * 关闭其他代理软件（例如shadowsocks）
-* 登录达世界官网获取订阅链接  (没有订阅链接的这里购买：<a class="downbtn" href="https://us04.go2world.tk/home/ref/6360407488" target="_blank" rel="noopener">Trojan节点服务提供商</a>)
+* 登录<a class="downbtn" href="https://us04.go2world.tk" target="_blank" rel="noopener">达世界官网</a>获取订阅链接  (没有订阅链接的这里购买：<a class="downbtn" href="https://us04.go2world.tk/home/ref/6360407488" target="_blank" rel="noopener">Trojan节点服务提供商</a>)
 * 点击复制订阅链接
 * ![]({{ '/res/img/win/account.png' | prepend: site.baseurl  }})
 * 在第一步打开的 Trojan 设置面板里依次点开 【订阅】->【设置】->【添加】，将复制的订阅链接添加上，点击【确定】
