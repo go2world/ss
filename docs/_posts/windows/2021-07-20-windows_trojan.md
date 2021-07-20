@@ -14,12 +14,13 @@ categories: windows电脑
     * <a class="downbtn" href="https://wwr.lanzoui.com/iZ2tBrms3wh" target="_blank" rel="noopener">下载地址1</a>
     * <a class="downbtn" href="https://tj-1256539025.cos.ap-hongkong.myqcloud.com/client/v2rayN-4.18.zip" target="_blank" rel="noopener">下载地址2</a>
       
-* 下载的压缩包，解压到文件夹后，双击打开trojan文件夹下的 v2rayN.exe 文件
+* 下载的压缩包，解压到文件夹后，进入解压的文件夹双击打开 v2rayN.exe 文件
     * 如果客户端运行Trojan报错，请尝试下载以下软件，安装完毕再运行Trojan
     * <a class="downbtn" href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank" rel="noopener">Visual C++ 2015 (x64、x86均安装)</a>
    
-* 桌面右下角会出现1个小图标，再次双击，打开 Trojan 设置面板
-* * *
+* 桌面右下角托盘里会出现「V」图标，再次双击，打开 Trojan 设置面板
+
+*********
 
 ### 第二步：创建Trojan服务
 * 关闭其他代理软件（例如shadowsocks）
@@ -31,7 +32,7 @@ categories: windows电脑
 * ![]({{ '/res/img/win/add2.png' | prepend: site.baseurl  }})
 * 再点击更新订阅，如下图
 * ![]({{ '/res/img/win/add3.png' | prepend: site.baseurl  }})
-
+* 更新成功后，服务器列表会出现服务器节点
 *********
 
 ### 第三步：启用Trojan服务
