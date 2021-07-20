@@ -23,7 +23,8 @@ categories: windows电脑
 * 桌面右下角会出现1个小图标，再次双击，打开 Trojan 设置面板
 * 点击「服务器」-「Add [Trojan] server」来添加Trojan节点
 * ![]({{ '/res/img/win/win1.png' | prepend: site.baseurl  }})
-* * *
+
+*********
 
 ### 第二步：创建Trojan服务
 * 关闭其他代理软件（例如shadowsocks）
