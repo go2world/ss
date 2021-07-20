@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone_trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone_trojan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-27-iphone_ss.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-27-iphone_ss.mdbak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-28-android.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-28-android.mdbak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/res/bak/2015-12-28-windows_ss.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2015-12-28-windows_ss.mdbak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/res/bak/2019-09-29-windows_trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/res/bak/2019-09-29-windows_trojan.mdbak" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,120 +15,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone_ss.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/pages/1_projects.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/feed.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone_trojan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_trojan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/res/img/win/neterror.webp">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows_ss.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -146,123 +34,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2014-11-17-welcome-to-jekyll.md" />
-        <option value="$PROJECT_DIR$/docs/_includes/header.html" />
-        <option value="$PROJECT_DIR$/docs/reference.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/2014-11-17-welcome-to-go2world.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/2016-08-27-how-to-use-ss.md" />
-        <option value="$PROJECT_DIR$/docs/_config.yml" />
-        <option value="$PROJECT_DIR$/docs/pages/3_公告.md" />
-        <option value="$PROJECT_DIR$/docs/pages/3_public_notic.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/memo/2015-12-27-useful-links.md" />
-        <option value="$PROJECT_DIR$/docs/pages/2_about_delete.md" />
-        <option value="$PROJECT_DIR$/docs/pages/1_projects_delete.md" />
-        <option value="$PROJECT_DIR$/docs/pages/1_projects.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/diary/2015-12-28-empty-template.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-useful-links.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/android/2015-12-28-empty-template.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-empty-template.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/windows/2015-12-28-empty-template.md" />
-        <option value="$PROJECT_DIR$/docs/pages/2_about.md" />
-        <option value="$PROJECT_DIR$/docs/_layouts/page.html" />
-        <option value="$PROJECT_DIR$/docs/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone-trojan.md" />
-        <option value="$PROJECT_DIR$/docs/index.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-trojan.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_Trojan.md" />
-        <option value="$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone_trojan.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="644" />
-    <option name="y" value="47" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
-  </component>
+  <component name="ProjectId" id="1vYj47UNUBTZ0kTOWcg3cvTj4eu" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="iphone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="mac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="windows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ss" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -270,7 +52,7 @@
     <property name="android.sdk.path" value="E:/work/Android/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555649450296" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/res/img/win" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/_posts/windows" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -278,30 +60,24 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my_test\ss\docs\res" />
+      <recent name="E:\my_test\ss\docs" />
+      <recent name="E:\my_test\ss\docs\_posts\bak" />
+      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
+      <recent name="C:\Users\43865\Desktop\ss\docs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my_test\ss\docs\_posts\windows" />
       <recent name="F:\myProject\ss文档\ss\docs\res\img\win" />
       <recent name="F:\myProject\ss文档\ss\docs\_posts\windows" />
       <recent name="F:\myProject\ss文档\ss\docs\res\img\iphone" />
       <recent name="F:\myProject\ss文档\ss\docs\_posts\iphone" />
-      <recent name="E:\myProject\ss\docs\res\pkg" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
-      <recent name="C:\Users\43865\Desktop\ss\docs" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -333,6 +109,18 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -360,55 +148,7 @@
       <workItem from="1569592902498" duration="3589000" />
       <workItem from="1569745406161" duration="6256000" />
       <workItem from="1570321681004" duration="163000" />
-    </task>
-    <task id="LOCAL-00016" summary="fist commit">
-      <created>1552555082939</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1552555082939</updated>
-    </task>
-    <task id="LOCAL-00017" summary="fist commit">
-      <created>1552555245648</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1552555245648</updated>
-    </task>
-    <task id="LOCAL-00018" summary="fist commit">
-      <created>1552555480266</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1552555480266</updated>
-    </task>
-    <task id="LOCAL-00019" summary="fist commit">
-      <created>1552555994705</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1552555994705</updated>
-    </task>
-    <task id="LOCAL-00020" summary="fist commit">
-      <created>1552578871525</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1552578871525</updated>
-    </task>
-    <task id="LOCAL-00021" summary="fist commit">
-      <created>1552579938881</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1552579938881</updated>
-    </task>
-    <task id="LOCAL-00022" summary="fist commit">
-      <created>1552580373103</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1552580373103</updated>
+      <workItem from="1626745757290" duration="6290000" />
     </task>
     <task id="LOCAL-00023" summary="fist commit">
       <created>1552581647509</created>
@@ -704,11 +444,57 @@
       <option name="project" value="LOCAL" />
       <updated>1570321812561</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="添加trojan教程">
+      <created>1626750278241</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1626750278242</updated>
+    </task>
+    <task id="LOCAL-00066" summary="添加trojan教程">
+      <created>1626755095590</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1626755095591</updated>
+    </task>
+    <task id="LOCAL-00067" summary="添加trojan教程">
+      <created>1626755130397</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1626755130397</updated>
+    </task>
+    <task id="LOCAL-00068" summary="添加trojan教程">
+      <created>1626757884913</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1626757884913</updated>
+    </task>
+    <task id="LOCAL-00069" summary="添加trojan教程">
+      <created>1626758279306</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1626758279306</updated>
+    </task>
+    <task id="LOCAL-00070" summary="添加trojan教程">
+      <created>1626758815595</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1626758815595</updated>
+    </task>
+    <task id="LOCAL-00071" summary="添加trojan教程">
+      <created>1626758898753</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1626758898753</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,44 +505,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679758" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
-      <window_info anchor="bottom" id="LuaCheck" order="7" weight="0.3294509" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.12254902" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294509" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.113144755" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.5324459" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -766,20 +514,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -809,210 +544,15 @@
     <MESSAGE value="添加trojan教程" />
     <option name="LAST_COMMIT_MESSAGE" value="添加trojan教程" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/_posts/2017-07-24-abandon-the-comment-feature.md" />
-    <entry file="file://$PROJECT_DIR$/docs/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" />
-    <entry file="file://$PROJECT_DIR$/doc/_layouts/default.html" />
-    <entry file="file://$PROJECT_DIR$/doc/_layouts/post.html" />
-    <entry file="file://$PROJECT_DIR$/doc/_includes/footer.html" />
-    <entry file="file://$PROJECT_DIR$/docs/styles/images/fj.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/favicon.jpg" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/logo.jpg" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/jiezishu.jpg" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/freud.jpg" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/01.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/02.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/03.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/04.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/yungentie/05.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/images/abandon-comments/yungentie-abandon.png" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/js/application.js" />
-    <entry file="file://$PROJECT_DIR$/doc/styles/js/lessismore.js" />
-    <entry file="file://$PROJECT_DIR$/doc/_sass/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/docs/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/comments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/newpost.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/duplicate.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/2015-02-10-welcome-to-jekyll.markdown" />
-    <entry file="file://$PROJECT_DIR$/docs/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/frontpage.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/_posts/2014-11-17-welcome-to-go2world.md" />
-    <entry file="file://$PROJECT_DIR$/doc/_posts/2016-08-27-how-to-use-ss.md" />
-    <entry file="file://$PROJECT_DIR$/docs/res/img/win/zhanghao.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/res/img/win/denglu_1.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/index.html" />
-    <entry file="file://$PROJECT_DIR$/docs/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/pages/3_notice.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/pages/2_about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2015-12-27-iphone_ss.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/pages/1_projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/mac/2015-12-28-mac.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/android/2015-12-28-android.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/res/img/win/neterror.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2015-12-28-windows_ss.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/windows/2019-09-29-windows_trojan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_posts/iphone/2019-09-27-iphone_trojan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1626758896981">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1626758896981" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626758987332">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626758987332" />
   </component>
   <component name="masterDetails">
     <states>
