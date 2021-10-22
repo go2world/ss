@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/_posts/android/2021-10-22-v2rayN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -148,14 +147,7 @@
       <workItem from="1570321681004" duration="163000" />
       <workItem from="1626745757290" duration="8600000" />
       <workItem from="1629711616482" duration="89000" />
-      <workItem from="1634813700308" duration="2214000" />
-    </task>
-    <task id="LOCAL-00025" summary="添加教程windows">
-      <created>1552631920475</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1552631920475</updated>
+      <workItem from="1634813700308" duration="3541000" />
     </task>
     <task id="LOCAL-00026" summary="添加教程windows">
       <created>1552633271582</created>
@@ -493,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626759746751</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="添加v2rayNG trojan教程">
+      <created>1634867821713</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1634867821713</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -542,17 +541,22 @@
     <MESSAGE value="添加教程android apk win 到release" />
     <MESSAGE value="删除android apk ， 用release" />
     <MESSAGE value="添加trojan教程" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加trojan教程" />
+    <MESSAGE value="添加v2rayNG trojan教程" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加v2rayNG trojan教程" />
   </component>
   <component name="WindowStateProjectService">
     <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1634867820088">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1634867820088" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626759750243">
+    <state x="491" y="169" key="SettingsEditor" timestamp="1634869111313">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759750243" />
+    <state x="491" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1634869111313" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1634869191273">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869191273" />
     <state x="658" y="318" key="git4idea.merge.GitPullDialog" timestamp="1629711620140">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
