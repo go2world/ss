@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/_posts/android/2021-10-22-v2rayN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +45,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/work/Android/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555649450296" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/_posts/windows" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/_posts/android" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -60,19 +62,19 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\my_test\ss\docs\res" />
-      <recent name="E:\my_test\ss\docs" />
-      <recent name="E:\my_test\ss\docs\_posts\bak" />
-      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
-      <recent name="C:\Users\43865\Desktop\ss\docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my_test\ss\docs\_posts\android" />
       <recent name="E:\my_test\ss\docs\_posts\windows" />
       <recent name="F:\myProject\ss文档\ss\docs\res\img\win" />
       <recent name="F:\myProject\ss文档\ss\docs\_posts\windows" />
       <recent name="F:\myProject\ss文档\ss\docs\res\img\iphone" />
-      <recent name="F:\myProject\ss文档\ss\docs\_posts\iphone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my_test\ss" />
+      <recent name="E:\my_test\ss\docs\res" />
+      <recent name="E:\my_test\ss\docs" />
+      <recent name="E:\my_test\ss\docs\_posts\bak" />
+      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,14 +146,9 @@
       <workItem from="1569592902498" duration="3589000" />
       <workItem from="1569745406161" duration="6256000" />
       <workItem from="1570321681004" duration="163000" />
-      <workItem from="1626745757290" duration="6532000" />
-    </task>
-    <task id="LOCAL-00024" summary="fist commit">
-      <created>1552581808736</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1552581808736</updated>
+      <workItem from="1626745757290" duration="8600000" />
+      <workItem from="1629711616482" duration="89000" />
+      <workItem from="1634813700308" duration="2214000" />
     </task>
     <task id="LOCAL-00025" summary="添加教程windows">
       <created>1552631920475</created>
@@ -489,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626759303950</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="添加trojan教程">
+      <created>1626759746751</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1626759746751</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView">
@@ -541,14 +545,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加trojan教程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1626759302639">
+    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1634867820088">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759302639" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626759529229">
+    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1634867820088" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1626759750243">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759529229" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1626759750243" />
+    <state x="658" y="318" key="git4idea.merge.GitPullDialog" timestamp="1629711620140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="658" y="318" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1629711620140" />
   </component>
   <component name="masterDetails">
     <states>
