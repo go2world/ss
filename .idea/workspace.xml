@@ -69,11 +69,11 @@
       <recent name="F:\myProject\ss文档\ss\docs\res\img\iphone" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my_test\ss\bak" />
       <recent name="E:\my_test\ss" />
       <recent name="E:\my_test\ss\docs\res" />
       <recent name="E:\my_test\ss\docs" />
       <recent name="E:\my_test\ss\docs\_posts\bak" />
-      <recent name="C:\Users\43865\Desktop\ss\docs\res\img\win" />
     </key>
   </component>
   <component name="RunManager">
@@ -147,14 +147,7 @@
       <workItem from="1570321681004" duration="163000" />
       <workItem from="1626745757290" duration="8600000" />
       <workItem from="1629711616482" duration="89000" />
-      <workItem from="1634813700308" duration="3541000" />
-    </task>
-    <task id="LOCAL-00026" summary="添加教程windows">
-      <created>1552633271582</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1552633271582</updated>
+      <workItem from="1634813700308" duration="4285000" />
     </task>
     <task id="LOCAL-00027" summary="添加教程windows">
       <created>1552633732404</created>
@@ -492,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634867821713</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="添加v2rayNG trojan教程">
+      <created>1634869199231</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1634869199231</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TodoView">
@@ -545,18 +545,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加v2rayNG trojan教程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1634867820088">
+    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1634869198242">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1634867820088" />
+    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869198242" />
     <state x="491" y="169" key="SettingsEditor" timestamp="1634869111313">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="491" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1634869111313" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1634869191273">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1634869245160">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869191273" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869245160" />
     <state x="658" y="318" key="git4idea.merge.GitPullDialog" timestamp="1629711620140">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
