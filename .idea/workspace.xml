@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="02d67b75-90bf-4ec0-8d1f-3b6ecfdd4834" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/windows/2021-07-20-windows_trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/windows/2021-07-20-windows_trojan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,13 +149,8 @@
       <workItem from="1626745757290" duration="8600000" />
       <workItem from="1629711616482" duration="89000" />
       <workItem from="1634813700308" duration="4285000" />
-    </task>
-    <task id="LOCAL-00027" summary="添加教程windows">
-      <created>1552633732404</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1552633732404</updated>
+      <workItem from="1635153812763" duration="225000" />
+      <workItem from="1635400414954" duration="103000" />
     </task>
     <task id="LOCAL-00028" summary="添加教程windows">
       <created>1552634220238</created>
@@ -492,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634869199231</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="更新iPhone教程">
+      <created>1635153980695</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1635153980696</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView">
@@ -542,21 +545,22 @@
     <MESSAGE value="删除android apk ， 用release" />
     <MESSAGE value="添加trojan教程" />
     <MESSAGE value="添加v2rayNG trojan教程" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加v2rayNG trojan教程" />
+    <MESSAGE value="更新iPhone教程" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新iPhone教程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1634869198242">
+    <state x="505" y="121" key="CommitChangelistDialog2" timestamp="1635153979633">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869198242" />
+    <state x="505" y="121" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1635153979633" />
     <state x="491" y="169" key="SettingsEditor" timestamp="1634869111313">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="491" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1634869111313" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1634869245160">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1635153985159">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1634869245160" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1635153985159" />
     <state x="658" y="318" key="git4idea.merge.GitPullDialog" timestamp="1629711620140">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

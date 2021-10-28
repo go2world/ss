@@ -11,12 +11,11 @@ categories: windows电脑
 ### 第一步：下载 Trojan 软件并添加Trojan节点
 
 * 点击下载 Trojan Windows客户端：v2rayN
-    * <a class="downbtn" href="https://wwr.lanzoui.com/iZ2tBrms3wh" target="_blank" rel="noopener">下载地址1</a>
     * <a class="downbtn" href="https://tj-1256539025.cos.ap-hongkong.myqcloud.com/client/v2rayN-4.18.zip" target="_blank" rel="noopener">下载地址2</a>
       
 * 下载的压缩包，解压到文件夹后，进入解压的文件夹双击打开 v2rayN.exe 文件
     * 如果客户端运行Trojan报错，请尝试下载以下软件，安装完毕再运行Trojan
-    * <a class="downbtn" href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank" rel="noopener">Visual C++ 2015 (x64、x86均安装)</a>
+    * <a class="downbtn" href="https://www.microsoft.com/en-us/download/details.aspx?id=48137" target="_blank" rel="noopener">Visual C++ 2015 (x64、x86均安装)</a>
    
 * 桌面右下角托盘里会出现「V」图标，再次双击，打开 Trojan 设置面板
 
