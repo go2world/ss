@@ -15,7 +15,7 @@ categories: 苹果手机
 * 打开App Store  → 登录以下Apple ID
 * Apple ID（达世界官方 定期更改密码 密码不对请联系客服 <b>请下载完软件之后一定要退出该ID，登录自己的账号，否则你手机上的信息会同步到该账号,还有不要开起二次认证，谢谢；否则以后id将不再提供</b>）
     * 账号：go.6.world@gmail.com
-    * 密码：Jc5.go2world.icu
+    * 密码：*****(联系客服获取QQ：438653638)
        ![]({{ '/res/img/iphone/ios1.png' }})
 
 ### 第二步：下载 Shadowrocket
